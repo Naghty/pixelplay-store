@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nombre": "Elden Ring",
+    "categoria": "juegos",
+    "plataforma": "PS5",
+    "precio": 39990,
+    "stock": 12,
+    "imagen": "assets/img/elden-ring.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "God of War Ragnarok",
+    "categoria": "juegos",
+    "plataforma": "PS5",
+    "precio": 44990,
+    "stock": 8,
+    "imagen": "assets/img/god-of-war.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Mario Kart 8 Deluxe",
+    "categoria": "juegos",
+    "plataforma": "Nintendo Switch",
+    "precio": 42990,
+    "stock": 15,
+    "imagen": "assets/img/mario-kart.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Zelda Tears of the Kingdom",
+    "categoria": "juegos",
+    "plataforma": "Nintendo Switch",
+    "precio": 49990,
+    "stock": 5,
+    "imagen": "assets/img/zelda-totk.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Cyberpunk 2077",
+    "categoria": "juegos",
+    "plataforma": "PC",
+    "precio": 24990,
+    "stock": 20,
+    "imagen": "assets/img/cyberpunk.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "EA Sports FC 25",
+    "categoria": "juegos",
+    "plataforma": "Xbox Series X",
+    "precio": 54990,
+    "stock": 10,
+    "imagen": "assets/img/fifa-25.svg"
+  },
+  {
+    "id": 7,
+    "nombre": "Hollow Knight Silksong",
+    "categoria": "juegos",
+    "plataforma": "PC",
+    "precio": 19990,
+    "stock": 25,
+    "imagen": "assets/img/hollow-knight.svg"
+  },
+  {
+    "id": 8,
+    "nombre": "Teclado Mecanico RGB",
+    "categoria": "accesorios",
+    "plataforma": "PC",
+    "precio": 34990,
+    "stock": 18,
+    "imagen": "assets/img/teclado-rgb.svg"
+  },
+  {
+    "id": 9,
+    "nombre": "Mouse Gamer 16000 DPI",
+    "categoria": "accesorios",
+    "plataforma": "PC",
+    "precio": 27990,
+    "stock": 22,
+    "imagen": "assets/img/mouse-gamer.svg"
+  },
+  {
+    "id": 10,
+    "nombre": "Audifonos Surround 7.1",
+    "categoria": "accesorios",
+    "plataforma": "Multiplataforma",
+    "precio": 45990,
+    "stock": 9,
+    "imagen": "assets/img/audifonos.svg"
+  },
+  {
+    "id": 11,
+    "nombre": "Control Inalambrico Xbox",
+    "categoria": "accesorios",
+    "plataforma": "Xbox Series X",
+    "precio": 59990,
+    "stock": 7,
+    "imagen": "assets/img/control-xbox.svg"
+  },
+  {
+    "id": 12,
+    "nombre": "Silla Gamer Pro",
+    "categoria": "accesorios",
+    "plataforma": "Multiplataforma",
+    "precio": 189990,
+    "stock": 3,
+    "imagen": "assets/img/silla-gamer.svg"
+  }
+]
