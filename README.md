@@ -1,9 +1,6 @@
-# PixelPlay Store - React (PFY2201 Semanas 7 y 8)
+# PixelPlay Store - React 
 
 Version en React del eCommerce PixelPlay Store, construida con Vite.
-Cubre las actividades:
-- Semana 7: "Construyendo componentes funcionales en React para un eCommerce interactivo"
-- Semana 8: "Mejorando funcionalidades clave en el eCommerce con React"
 
 ## Estructura
 
