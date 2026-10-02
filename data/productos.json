@@ -5,8 +5,10 @@
     "categoria": "juegos",
     "plataforma": "PS5",
     "precio": 39990,
+    "precioOferta": 29990,
+    "descripcion": "Mundo abierto de fantasia oscura creado junto a George R. R. Martin.",
     "stock": 12,
-    "imagen": "assets/img/elden-ring.svg"
+    "imagen": "elden-ring.svg"
   },
   {
     "id": 2,
@@ -14,8 +16,10 @@
     "categoria": "juegos",
     "plataforma": "PS5",
     "precio": 44990,
+    "precioOferta": null,
+    "descripcion": "Kratos y Atreus enfrentan el Ragnarok en un viaje nordico.",
     "stock": 8,
-    "imagen": "assets/img/god-of-war.svg"
+    "imagen": "god-of-war.svg"
   },
   {
     "id": 3,
@@ -23,8 +27,10 @@
     "categoria": "juegos",
     "plataforma": "Nintendo Switch",
     "precio": 42990,
+    "precioOferta": 34990,
+    "descripcion": "Carreras arcade con los personajes clasicos de Nintendo.",
     "stock": 15,
-    "imagen": "assets/img/mario-kart.svg"
+    "imagen": "mario-kart.svg"
   },
   {
     "id": 4,
@@ -32,8 +38,10 @@
     "categoria": "juegos",
     "plataforma": "Nintendo Switch",
     "precio": 49990,
+    "precioOferta": null,
+    "descripcion": "Explora Hyrule y los cielos en esta aventura de mundo abierto.",
     "stock": 5,
-    "imagen": "assets/img/zelda-totk.svg"
+    "imagen": "zelda-totk.svg"
   },
   {
     "id": 5,
@@ -41,8 +49,10 @@
     "categoria": "juegos",
     "plataforma": "PC",
     "precio": 24990,
+    "precioOferta": 14990,
+    "descripcion": "RPG futurista ambientado en Night City.",
     "stock": 20,
-    "imagen": "assets/img/cyberpunk.svg"
+    "imagen": "cyberpunk.svg"
   },
   {
     "id": 6,
@@ -50,8 +60,10 @@
     "categoria": "juegos",
     "plataforma": "Xbox Series X",
     "precio": 54990,
+    "precioOferta": null,
+    "descripcion": "El simulador de futbol mas jugado, con licencias oficiales.",
     "stock": 10,
-    "imagen": "assets/img/fifa-25.svg"
+    "imagen": "fifa-25.svg"
   },
   {
     "id": 7,
@@ -59,8 +71,10 @@
     "categoria": "juegos",
     "plataforma": "PC",
     "precio": 19990,
+    "precioOferta": null,
+    "descripcion": "Metroidvania dibujado a mano con combate preciso.",
     "stock": 25,
-    "imagen": "assets/img/hollow-knight.svg"
+    "imagen": "hollow-knight.svg"
   },
   {
     "id": 8,
@@ -68,8 +82,10 @@
     "categoria": "accesorios",
     "plataforma": "PC",
     "precio": 34990,
+    "precioOferta": 27990,
+    "descripcion": "Switches mecanicos e iluminacion RGB personalizable.",
     "stock": 18,
-    "imagen": "assets/img/teclado-rgb.svg"
+    "imagen": "teclado-rgb.svg"
   },
   {
     "id": 9,
@@ -77,8 +93,10 @@
     "categoria": "accesorios",
     "plataforma": "PC",
     "precio": 27990,
+    "precioOferta": null,
+    "descripcion": "Sensor de alta precision con botones programables.",
     "stock": 22,
-    "imagen": "assets/img/mouse-gamer.svg"
+    "imagen": "mouse-gamer.svg"
   },
   {
     "id": 10,
@@ -86,8 +104,10 @@
     "categoria": "accesorios",
     "plataforma": "Multiplataforma",
     "precio": 45990,
+    "precioOferta": 36990,
+    "descripcion": "Sonido envolvente con microfono desmontable.",
     "stock": 9,
-    "imagen": "assets/img/audifonos.svg"
+    "imagen": "audifonos.svg"
   },
   {
     "id": 11,
@@ -95,8 +115,10 @@
     "categoria": "accesorios",
     "plataforma": "Xbox Series X",
     "precio": 59990,
+    "precioOferta": null,
+    "descripcion": "Ergonomia mejorada y conexion inalambrica de baja latencia.",
     "stock": 7,
-    "imagen": "assets/img/control-xbox.svg"
+    "imagen": "control-xbox.svg"
   },
   {
     "id": 12,
@@ -104,7 +126,9 @@
     "categoria": "accesorios",
     "plataforma": "Multiplataforma",
     "precio": 189990,
+    "precioOferta": 149990,
+    "descripcion": "Soporte lumbar ajustable pensado para sesiones largas.",
     "stock": 3,
-    "imagen": "assets/img/silla-gamer.svg"
+    "imagen": "silla-gamer.svg"
   }
 ]
